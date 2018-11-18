@@ -52,7 +52,7 @@ def take_picture(filename):
 
 def main():
     # First define where you want to send and subject
-    TARGET_ADDRESS = "karl.ravago@gmail.com"
+    TARGET_ADDRESS = "karl.ravago@gmail.com" #Replace this with recipient
     SUBJECT = "Stove Query" 
     IMG = "stove.png"
 
